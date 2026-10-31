@@ -39,7 +39,7 @@ To add them:
 
 ## Licence
 
-The add-in runs only with a licence from ACAM PRO d.o.o. (a HASP key on the customer list or a licence code). Each
-version works until the date in its release notes.
+No separate licence is needed: this version runs with every Mastercam 2027 licence until 31. 12. 2026. Each version
+works until the date in its release notes.
 
 Contact: info@acampro.si · [https://www.mastercam.si](https://www.mastercam.si)
