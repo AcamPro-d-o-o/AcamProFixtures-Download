@@ -29,4 +29,4 @@ The guide is also built into the add-in: press F1 in any of its windows.
 The add-in runs only with a licence from ACAM PRO d.o.o. (a HASP key on the customer list or a licence code). Each
 version works until the date in its release notes.
 
-Contact: info@acampro.si · [https://www.acampro.si](https://www.acampro.si)
+Contact: info@acampro.si · [https://www.mastercam.si](https://www.mastercam.si)
